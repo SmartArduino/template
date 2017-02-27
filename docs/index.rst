@@ -12,7 +12,7 @@ Contents:
    :maxdepth: 2
    :glob:
 
-   *
+   *Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!Welcome to Read the Docs Template's documentation!
 
 
 
